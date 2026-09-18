@@ -1,2 +1,4 @@
 one 
 the first test was ok
+
+this is merging part
